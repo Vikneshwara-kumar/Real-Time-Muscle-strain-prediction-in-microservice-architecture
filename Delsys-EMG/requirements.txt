@@ -1,0 +1,11 @@
+PySide6
+Vispy
+Scipy
+pythonnet
+numpy
+paho.mqtt.client 
+time
+socket
+pandas
+csv
+json
